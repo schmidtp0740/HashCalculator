@@ -7,16 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <TextBox x:Name="HashText" HorizontalAlignment="Left" Height="29" Margin="62,118,0,0" TextWrapping="Wrap" Text="Place Hash here" VerticalAlignment="Top" Width="348"/>
-        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Height="22" Margin="330,59,0,0" VerticalAlignment="Top" Width="107">
-            <ComboBox.ItemTemplate>
-                <DataTemplate
-                DataType= "{Binding}">
-                    <CheckBox
-                        Content="SHA256" />
-                </DataTemplate>
-            </ComboBox.ItemTemplate>
-        </ComboBox>
+        <TextBox x:Name="HashText" HorizontalAlignment="Left" Height="29" Margin="63,86,0,0" TextWrapping="Wrap" Text="Author's Hash" VerticalAlignment="Top" Width="348"/>
+        <TextBox x:Name="FileLocationText" HorizontalAlignment="Left" Height="22" Margin="63,59,0,0" TextWrapping="Wrap" Text="File" VerticalAlignment="Top" Width="169"/>
+        <Button x:Name="Browsebtn" Content="Browse" HorizontalAlignment="Left" Height="22" Margin="232,59,0,0" VerticalAlignment="Top" Width="68" Click="Browsebtn_Click"/>
+        <Label x:Name="HashLbl" Content="File's Hash: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="63,159,0,0" Width="348"/>
+        <Label x:Name="VerifyLbl" Content="Press Calculate to find if Hash is same" HorizontalAlignment="Left" Height="24" Margin="63,190,0,0" VerticalAlignment="Top" Width="211"/>
+        <Button x:Name="Calcbtn" Content="Calculate" HorizontalAlignment="Left" Height="25" Margin="167,237,0,0" VerticalAlignment="Top" Width="94" Click="Calcbtn_Click"/>
 
     </Grid>
 </Window>
