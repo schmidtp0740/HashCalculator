@@ -1,0 +1,13 @@
+C:\Projects\HashCheckSum Solution\HashCheckSum\bin\Debug\HashCheckSum.exe.config
+C:\Projects\HashCheckSum Solution\HashCheckSum\bin\Debug\HashCheckSum.exe
+C:\Projects\HashCheckSum Solution\HashCheckSum\bin\Debug\HashCheckSum.pdb
+C:\Projects\HashCheckSum Solution\HashCheckSum\obj\Debug\MainWindow.g.cs
+C:\Projects\HashCheckSum Solution\HashCheckSum\obj\Debug\App.g.cs
+C:\Projects\HashCheckSum Solution\HashCheckSum\obj\Debug\HashCheckSum_MarkupCompile.cache
+C:\Projects\HashCheckSum Solution\HashCheckSum\obj\Debug\HashCheckSum_MarkupCompile.lref
+C:\Projects\HashCheckSum Solution\HashCheckSum\obj\Debug\MainWindow.baml
+C:\Projects\HashCheckSum Solution\HashCheckSum\obj\Debug\HashCheckSum.g.resources
+C:\Projects\HashCheckSum Solution\HashCheckSum\obj\Debug\HashCheckSum.Properties.Resources.resources
+C:\Projects\HashCheckSum Solution\HashCheckSum\obj\Debug\HashCheckSum.csproj.GenerateResource.Cache
+C:\Projects\HashCheckSum Solution\HashCheckSum\obj\Debug\HashCheckSum.exe
+C:\Projects\HashCheckSum Solution\HashCheckSum\obj\Debug\HashCheckSum.pdb
